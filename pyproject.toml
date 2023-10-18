@@ -1,0 +1,15 @@
+[project]
+name = "hello-8trider"
+version = "0.1.0"
+description = "My first python publish"
+authors = [
+    {name = "opeth8", email = "8trider@naver.com"},
+]
+dependencies = []
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
