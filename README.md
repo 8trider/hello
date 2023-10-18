@@ -2,6 +2,7 @@
 - MY first python publish
 
 ##### view at:
+- https://pypi.org/project/hello-8trider/
 
 ### INSTALL
 ```bash
