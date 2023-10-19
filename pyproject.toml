@@ -18,3 +18,7 @@ build-backend = "pdm.backend"
 test = [
     "pytest-cov>=4.1.0",
 ]
+
+[project.scripts]
+8pic = 'hello_8trider.my:pic'
+8name = 'hello_8trider.who:my_name'
