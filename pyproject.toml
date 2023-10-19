@@ -5,7 +5,8 @@ description = "My first python publish"
 authors = [
     {name = "opeth8", email = "8trider@naver.com"},
 ]
-dependencies = []
+dependencies = [
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
