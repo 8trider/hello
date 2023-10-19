@@ -10,7 +10,7 @@ $ pip install hello-8trider
 ```
 ### USE
 ```bash
-$ hello-8trider-pic
+$ 8pic
 
                         ..                        
                 .:.    ~77^    .:.                
@@ -35,6 +35,12 @@ $ hello-8trider-pic
                 ^!^!~~~:..:~^~!^!:                
                 :: :..:    ^.:: :: 
 
+
+$ 8name
+My name is H8
+
+$ eight
+8 * 8
 ```
 
 ### DEV
