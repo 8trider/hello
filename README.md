@@ -39,8 +39,8 @@ $ 8pic
 $ 8name
 My name is H8
 
-$ eight
-8 * 8
+$ lotto
+1~42 에서 6개의 수 무작위 출력
 ```
 
 ### DEV
@@ -55,4 +55,9 @@ $ pdm install
 ### DEPLOY
 ```bash
 $ pdm publish
+```
+
+### TEST
+```bash
+$ pytest
 ```

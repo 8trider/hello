@@ -1,9 +1,10 @@
 [project]
-name = "hello-8trider"
-version = "0.3.1"
-description = "My first python publish"
+name = "hello"
+version = "0.3.2"
+description = ""
 authors = [
     {name = "opeth8", email = "8trider@naver.com"},
+    {name = "8trider", email = "8trider@naver.com"},
 ]
 dependencies = [
 ]
@@ -24,4 +25,4 @@ test = [
 [project.scripts]
 8pic = 'hello_8trider.my:pic'
 8name = 'hello_8trider.who:my_name'
-eight = 'hello_8trider.who:eight'
+lotto = 'hello_8trider.who:lotto'
