@@ -41,6 +41,9 @@ My name is H8
 
 $ lotto
 1~42 에서 6개의 수 무작위 출력
+
+$ weather
+날씨 출력 기능 추가 예정
 ```
 
 ### DEV
