@@ -1,9 +1,8 @@
 [project]
 name = "hello-8trider"
-version = "0.3.4"
+version = "0.5.1"
 description = ""
 authors = [
-    {name = "opeth8", email = "8trider@naver.com"},
     {name = "8trider", email = "8trider@naver.com"},
 ]
 dependencies = [
@@ -30,4 +29,5 @@ test = [
 8pic = 'hello_8trider.my:pic'
 8name = 'hello_8trider.who:my_name'
 lotto = 'hello_8trider.who:lotto'
+encourage = 'hello_8trider.who:chant'
 
