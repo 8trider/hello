@@ -42,8 +42,8 @@ My name is H8
 $ lotto
 1~42 에서 6개의 수 무작위 출력
 
-$ weather
-날씨 출력 기능 추가 예정
+$ encourage
+응원 문구 랜덤 출력
 ```
 
 ### DEV
@@ -63,4 +63,6 @@ $ pdm publish
 ### TEST
 ```bash
 $ pytest
+$ pytest -s
+$ pytest --cov
 ```
