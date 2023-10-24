@@ -1,6 +1,6 @@
 [project]
-name = "hello"
-version = "0.3.3"
+name = "hello-8trider"
+version = "0.3.4"
 description = ""
 authors = [
     {name = "opeth8", email = "8trider@naver.com"},
@@ -22,7 +22,12 @@ test = [
     "pytest-cov>=4.1.0",
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/8trider/hello"
+"Bug Tracker" = "https://github.com/8trider/hello/issues"
+
 [project.scripts]
 8pic = 'hello_8trider.my:pic'
 8name = 'hello_8trider.who:my_name'
 lotto = 'hello_8trider.who:lotto'
+
